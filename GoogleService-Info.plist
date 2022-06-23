@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1043343427780-9je54prcuhoej9dj3na2ae7tua5fq94q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1043343427780-9je54prcuhoej9dj3na2ae7tua5fq94q</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1043343427780-manbeofjjcpkj350ipmgee0e3g4tdr52.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9gXW9gX1CKKXi06ey0NloxfXlYGdk6o8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043343427780</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.webstart.spotifreee</string>
+	<key>PROJECT_ID</key>
+	<string>spotifreee-ce65c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spotifreee-ce65c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043343427780:ios:5b12bc75a17cf2eea1e191</string>
+</dict>
+</plist>

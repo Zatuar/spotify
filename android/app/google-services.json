@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562455121042",
+    "project_id": "spotifree-261b2",
+    "storage_bucket": "spotifree-261b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562455121042:android:7dec6930d7aff2201fea4b",
+        "android_client_info": {
+          "package_name": "com.webstart.spotifree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562455121042-6goa4tqeko63j3o42ussrm0ss5p2vq8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webstart.spotifree",
+            "certificate_hash": "6198f959c05c36db0c2ebb683595e38698d3d3c1"
+          }
+        },
+        {
+          "client_id": "562455121042-10s7gg19b914lt1b8iuthk4k2lo1godb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvnZ05AG21_1y3LTHjT9WQR5lfG2Ec_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562455121042-10s7gg19b914lt1b8iuthk4k2lo1godb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562455121042-hcnhm6gk8kk19g4f10eumis4tp26dj59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webstart.spotifree",
+                "app_store_id": "1610658443"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
